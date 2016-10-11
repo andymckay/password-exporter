@@ -12,5 +12,10 @@
   "manifest_version": 2,
   "name": "Password Exporter",
   "version": "0.1",
-  "permissions": [ "experiments.logins" ]
+  "permissions": [
+    "logins",
+    "experiments.logins",
+    "<all_urls>",
+    "downloads"
+  ]
 }
