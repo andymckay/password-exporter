@@ -1,0 +1,16 @@
+{
+  "applications": {
+    "gecko": {
+      "id": "password-exporter-webextension@mozilla.org"
+    }
+  },
+  "browser_action": {
+      "default_title": "Password Exporter",
+      "default_popup": "passwords.html"
+  },
+  "description": "Allows you to export your passwords",
+  "manifest_version": 2,
+  "name": "Password Exporter",
+  "version": "0.1",
+  "permissions": [ "experiments.logins" ]
+}
