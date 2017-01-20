@@ -5,8 +5,11 @@
     }
   },
   "browser_action": {
-      "default_title": "Password Exporter",
-      "default_popup": "passwords.html"
+      "default_icon": "key.png",
+      "default_title": "Password Exporter"
+  },
+  "background": {
+     "scripts": ["background.js"]
   },
   "description": "Allows you to export your passwords",
   "manifest_version": 2,
@@ -17,5 +20,8 @@
     "experiments.logins",
     "<all_urls>",
     "downloads"
-  ]
+  ],
+  "icons": {
+    "128": "key.png"
+  }
 }

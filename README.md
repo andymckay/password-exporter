@@ -12,3 +12,6 @@ Requires the Experiment:
 
 https://addons.mozilla.org/en-US/firefox/addon/experimental-logins-api/
 
+icon is from: https://www.iconfinder.com/icons/211087/key_lock_locked_password_secure_security_icon#size=128
+
+which is under: http://creativecommons.org/licenses/by/3.0/
