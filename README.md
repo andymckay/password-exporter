@@ -1,6 +1,6 @@
 This is an attempt to quickly see if we can use the logins API proposed here:
 
-https://github.com/andymckay/password-exporter
+https://github.com/web-ext-experiments/logins
 
 To write something that looks vaguely like:
 
